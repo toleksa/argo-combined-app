@@ -9,7 +9,7 @@ spec:
   - argo-combined-app
   hosts:
   - argo-combined-app.local
-  - acme.com
+  - acme.c3.kube.ac
   http:
   - name: primary
     route:
