@@ -8,8 +8,7 @@ spec:
   gateways:
   - argo-combined-app
   hosts:
-  - argo-combined-app.local
-  - workflow.c3.kube.ac
+  - production.c3.kube.ac
   http:
   - name: primary
     route:
