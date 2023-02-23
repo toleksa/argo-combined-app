@@ -7,5 +7,5 @@ resources:
 - rollout.yaml
 namespace: production
 images:
-  - name: vfarcic/argo-combined-app
+  - name: toleksa/argo-combined-app
     newTag: "placeholder"
