@@ -8,4 +8,4 @@ resources:
 namespace: production
 images:
   - name: toleksa/argo-combined-app
-    newTag: "placeholder"
+    newTag: "21fa0ce62d35b214039c55f8575c3af69dbafe57"
